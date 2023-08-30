@@ -5,4 +5,5 @@
 * list1
 * list2
 
-![New zealand map](/williamlouth.github.io/assets/newzealand.png)
+![New zealand map](assets/newzealand.png)
+
